@@ -1,8 +1,9 @@
 div::before{
-	content:" Before Elememt ";
+	content:" Before Element ";
 	color:red;
 }
 div::after{
-	content:" After Element";
 	color:red;
+	content:" After Element";
+	
 }
