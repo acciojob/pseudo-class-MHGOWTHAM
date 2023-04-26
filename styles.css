@@ -1,8 +1,8 @@
-p::before{
-	content:" Before Elememt";
+div::before{
+	content:" Before Elememt ";
 	color:red;
 }
-p::after{
+div::after{
 	content:" After Element";
 	color:red;
 }
